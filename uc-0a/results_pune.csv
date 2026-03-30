@@ -1,0 +1,16 @@
+complaint_id,category,priority,reason,flag
+PM-202401,Pothole,Standard,The description contains 'pothole' which indicates pothole.,
+PM-202402,Pothole,Urgent,The description contains 'pothole' which indicates pothole and 'child' which requires urgent priority.,
+PM-202406,Flooding,Standard,The description contains 'flood' which indicates flooding.,
+PM-202408,Flooding,Standard,The description contains 'flood' which indicates flooding.,
+PM-202410,Streetlight,Standard,The description contains 'streetlight' which indicates streetlight.,
+PM-202411,Streetlight,Urgent,The description contains 'streetlight' which indicates streetlight and 'hazard' which requires urgent priority.,
+PM-202413,Flooding,Standard,The description contains 'overflow' which indicates flooding.,
+PM-202418,Noise,Standard,The description contains 'music' which indicates noise.,
+PM-202419,Road Damage,Standard,The description contains 'road' which indicates road damage.,
+PM-202420,Pothole,Urgent,The description contains 'hole' which indicates pothole and 'injury' which requires urgent priority.,
+PM-202427,Flooding,Standard,The description contains 'flood' which indicates flooding.,
+PM-202428,Other,Low,The description does not contain clear indicators for classification.,NEEDS_REVIEW
+PM-202430,Streetlight,Standard,The description contains 'light' which indicates streetlight.,
+PM-202433,Waste,Standard,The description contains 'waste' which indicates waste.,
+PM-202446,Road Damage,Urgent,The description contains 'broken' which indicates road damage and 'fell' which requires urgent priority.,
